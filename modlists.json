@@ -1,0 +1,40 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Krosis",
+    "description": "Skyrim modlist with good graphics, NSFW and other additions for 1.6.1170",
+    "author": "aquilman",
+    "maintainers": [
+      "github/InWaveless"
+    ],
+    "game": "skyrimspecialedition",
+    "tags": [
+      "Combat Overhaul",
+      "DLC Required",
+      "High Fantasy",
+      "Steam"
+    ],
+    "nsfw": true,
+    "image_contains_title": false,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://raw.githubusercontent.com/InWaveless/Krosis/main/splash.png",
+      "readme": "https://github.com/InWaveless/Krosis",
+      "download": "https://authored-files.wabbajack.org/Krosis.wabbajack_d167185e-6124-4b28-a584-76de851562df",
+      "machineURL": "Krosis",
+      "discordURL": "https://discord.gg/wabbajack"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "8cwfmX1igIE=",
+      "Size": 2189578326,
+      "NumberOfArchives": 2747,
+      "SizeOfArchives": 181112761487,
+      "NumberOfInstalledFiles": 328663,
+      "SizeOfInstalledFiles": 286881405138,
+      "TotalSize": 467994166625
+    },
+    "version": "1.0.0"
+  }
+]
