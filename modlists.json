@@ -2,7 +2,7 @@
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Krosis",
-    "description": "Skyrim modlist with good graphics, NSFW and other additions for 1.6.1170",
+    "description": "Skyrim modlist with good graphics, NSFW and other additions for 1.6.1170. Vokriinator Black, overhauled cities, non-fetish OStim Suite and immersion. Full Jayserpa suite, Skyshards, variety of outfits for NPC and more to come! Care to try?",
     "author": "aquilman",
     "maintainers": [
       "github/InWaveless"
@@ -21,19 +21,19 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/InWaveless/Krosis/main/splash.png",
       "readme": "https://github.com/InWaveless/Krosis",
-      "download": "https://authored-files.wabbajack.org/Krosis.wabbajack_7cf39aa3-8a60-4d4f-aeb2-e03389cd770a",
+      "download": "https://authored-files.wabbajack.org/Krosis.wabbajack_0251f227-43d2-4de0-9c38-bdb77c3ecac7",
       "machineURL": "Krosis",
       "discordURL": "https://discord.gg/wabbajack"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "8cwfmX1igIE=",
-      "Size": 2189578326,
-      "NumberOfArchives": 2747,
-      "SizeOfArchives": 181112761487,
-      "NumberOfInstalledFiles": 328663,
-      "SizeOfInstalledFiles": 286881405138,
-      "TotalSize": 467994166625
+      "Hash": "IXTY6Hlc2kw=",
+      "Size": 2188821729,
+      "NumberOfArchives": 2692,
+      "SizeOfArchives": 180962072451,
+      "NumberOfInstalledFiles": 312487,
+      "SizeOfInstalledFiles": 286628297187,
+      "TotalSize": 467590369638
     },
     "version": "1.0.0"
   }
