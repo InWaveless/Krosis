@@ -23,7 +23,7 @@
       "readme": "https://github.com/InWaveless/Krosis",
       "download": "https://authored-files.wabbajack.org/Krosis.wabbajack_0251f227-43d2-4de0-9c38-bdb77c3ecac7",
       "machineURL": "Krosis",
-      "discordURL": "https://discord.gg/wabbajack"
+      "discordURL": ""
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
@@ -35,6 +35,6 @@
       "SizeOfInstalledFiles": 286628297187,
       "TotalSize": 467590369638
     },
-    "version": "1.0.0"
+    "version": "1.0.1"
   }
 ]
