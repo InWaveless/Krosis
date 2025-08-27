@@ -1,40 +1,40 @@
 [
-  {
-    "$type": "ModListMetadata, Wabbajack.Lib",
-    "title": "Krosis",
-    "description": "Skyrim modlist with good graphics, NSFW and other additions for 1.6.1170. Vokriinator Black, overhauled cities, non-fetish OStim Suite and immersion. Full Jayserpa suite, Skyshards, variety of outfits for NPC and more to come! Care to try?",
-    "author": "aquilman",
-    "maintainers": [
-      "github/InWaveless"
-    ],
-    "game": "skyrimspecialedition",
-    "tags": [
-      "Combat Overhaul",
-      "DLC Required",
-      "High Fantasy",
-      "Steam"
-    ],
-    "nsfw": true,
-    "image_contains_title": false,
-    "force_down": false,
-    "links": {
-      "$type": "Links, Wabbajack.Lib",
-      "image": "https://raw.githubusercontent.com/InWaveless/Krosis/main/splash.png",
-      "readme": "https://github.com/InWaveless/Krosis",
-      "download": "https://authored-files.wabbajack.org/Krosis.wabbajack_0251f227-43d2-4de0-9c38-bdb77c3ecac7",
-      "machineURL": "Krosis",
-      "discordURL": ""
-    },
-    "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "IXTY6Hlc2kw=",
-      "Size": 2188821729,
-      "NumberOfArchives": 2692,
-      "SizeOfArchives": 180962072451,
-      "NumberOfInstalledFiles": 312487,
-      "SizeOfInstalledFiles": 286628297187,
-      "TotalSize": 467590369638
-    },
-    "version": "1.0.1"
-  }
+    {
+        "$type": "ModListMetadata, Wabbajack.Lib",
+        "title": "Krosis",
+        "description": "Skyrim modlist with good graphics, NSFW and other additions for 1.6.1170. Vokriinator Black, overhauled cities, non-fetish OStim Suite and immersion. Full Jayserpa suite, Skyshards, variety of outfits for NPC and more to come! Care to try?",
+        "author": "aquilman",
+        "maintainers": [
+            "github/InWaveless"
+        ],
+        "game": "skyrimspecialedition",
+        "tags": [
+            "Combat Overhaul",
+            "DLC Required",
+            "High Fantasy",
+            "Steam"
+        ],
+        "nsfw": true,
+        "image_contains_title": false,
+        "force_down": false,
+        "links": {
+            "$type": "Links, Wabbajack.Lib",
+            "image": "https://raw.githubusercontent.com/InWaveless/Krosis/main/splash.png",
+            "readme": "https://github.com/InWaveless/Krosis",
+            "download": "https://authored-files.wabbajack.org/Krosis.wabbajack_9e077c03-1b02-43f2-a884-a6513e42fd40",
+            "machineURL": "Krosis",
+            "discordURL": ""
+        },
+        "download_metadata": {
+            "$type": "DownloadMetadata, Wabbajack.Lib",
+            "Hash": "8g14BLwiSmU=",
+            "Size": 2149046001,
+            "NumberOfArchives": 2689,
+            "SizeOfArchives": 180510226515,
+            "NumberOfInstalledFiles": 307907,
+            "SizeOfInstalledFiles": 282366667290,
+            "TotalSize": 462876893805
+        },
+        "version": "1.0.2"
+    }
 ]
