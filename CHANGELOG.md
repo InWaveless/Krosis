@@ -2,7 +2,7 @@
 
 ## 1.0.2
 
-Updated some mods, removed useless things, reduced overall size of installed modlist. Updated Pandora to 4.0.3, fixed missing textures.
+Updated some mods, removed useless things, reduced overall size of installed modlist. Updated Pandora to 4.0.3, fixed missing textures. Should be safe to update mid-game, but i recommend you to update in interior cell.
 
 - **Added:** 8 mods
 - **Removed:** 6 mods
