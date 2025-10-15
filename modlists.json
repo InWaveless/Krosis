@@ -16,7 +16,7 @@
         ],
         "nsfw": true,
         "image_contains_title": false,
-        "force_down": false,
+        "force_down": true,
         "links": {
             "$type": "Links, Wabbajack.Lib",
             "image": "https://raw.githubusercontent.com/InWaveless/Krosis/main/splash.png",
