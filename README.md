@@ -7,4 +7,5 @@ Changelog can be found here: https://github.com/InWaveless/Krosis/blob/main/CHAN
 ## Support
 
 Nexus Mods: https://www.nexusmods.com/skyrimspecialedition/mods/157177
+
 Discord: https://discord.gg/2mxz66fz4B
