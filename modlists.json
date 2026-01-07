@@ -1,40 +1,40 @@
 [
-    {
-        "$type": "ModListMetadata, Wabbajack.Lib",
-        "title": "Krosis",
-        "description": "Skyrim modlist with good graphics, NSFW and other additions for 1.6.1170. Vokriinator Black, overhauled cities, non-fetish OStim Suite and immersion. Full Jayserpa suite, Skyshards, variety of outfits for NPC and more to come! Care to try?",
-        "author": "aquilman",
-        "maintainers": [
-            "github/InWaveless"
-        ],
-        "game": "skyrimspecialedition",
-        "tags": [
-            "Combat Overhaul",
-            "DLC Required",
-            "High Fantasy",
-            "Steam"
-        ],
-        "nsfw": true,
-        "image_contains_title": false,
-        "force_down": true,
-        "links": {
-            "$type": "Links, Wabbajack.Lib",
-            "image": "https://raw.githubusercontent.com/InWaveless/Krosis/main/splash.png",
-            "readme": "https://github.com/InWaveless/Krosis",
-            "download": "https://authored-files.wabbajack.org/Krosis.wabbajack_9e077c03-1b02-43f2-a884-a6513e42fd40",
-            "machineURL": "Krosis",
-            "discordURL": ""
-        },
-        "download_metadata": {
-            "$type": "DownloadMetadata, Wabbajack.Lib",
-            "Hash": "8g14BLwiSmU=",
-            "Size": 2149046001,
-            "NumberOfArchives": 2689,
-            "SizeOfArchives": 180510226515,
-            "NumberOfInstalledFiles": 307907,
-            "SizeOfInstalledFiles": 282366667290,
-            "TotalSize": 462876893805
-        },
-        "version": "1.0.2"
-    }
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Krosis",
+    "description": "Skyrim modlist with good graphics, NSFW and other additions for 1.6.1170. Vokriinator Black, overhauled cities, non-fetish OStim Suite and immersion. Full Jayserpa suite, Skyshards, variety of outfits for NPC and more to come! Care to try?",
+    "author": "aquilman",
+    "maintainers": [
+      "github/InWaveless"
+    ],
+    "game": "skyrimspecialedition",
+    "tags": [
+      "Combat Overhaul",
+      "DLC Required",
+      "High Fantasy",
+      "Steam"
+    ],
+    "nsfw": true,
+    "image_contains_title": false,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://raw.githubusercontent.com/InWaveless/Krosis/main/splash.png",
+      "readme": "https://github.com/InWaveless/Krosis",
+      "download": "https://authored-files.wabbajack.org/Krosis.wabbajack_a2db9e48-c8da-43be-a17c-8c0aaf0736ef",
+      "machineURL": "Krosis",
+      "discordURL": ""
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "dUDKT34/0RA=",
+      "Size": 2183399877,
+      "NumberOfArchives": 2697,
+      "SizeOfArchives": 180760037963,
+      "NumberOfInstalledFiles": 313943,
+      "SizeOfInstalledFiles": 287719542864,
+      "TotalSize": 468479580827
+    },
+    "version": "1.0.3"
+  }
 ]
