@@ -1,5 +1,9 @@
 # Krosis Changelog
 
+## 1.1.1
+
+Fix to skyparkour not working
+
 ## 1.1.0
 
 Rebalance of the combat system, stagger rework. Loot overhaul, and countless bugfixes, mod updates etc.
