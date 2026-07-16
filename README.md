@@ -219,8 +219,6 @@ The list includes its own generated:
 
 Performance testing is still ongoing across different hardware configurations.
 
-On a system equipped with an **Intel Core i7-12700KF, 32 GB of RAM, and an NVIDIA GeForce RTX 3080**, the list runs at a locked 72 FPS at 1920 × 1080. Drops into the 40–50 FPS range may occur in the heaviest cities, dense forests, and scenes containing large numbers of NPCs.
-
 Significant effort has been made to reduce stuttering and optimize demanding locations. Final performance will still depend on resolution, GPU performance, available VRAM, and selected graphical settings.
 
 ## In Summary
