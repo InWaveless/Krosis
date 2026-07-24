@@ -2,39 +2,32 @@
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Krosis",
-    "description": "Skyrim modlist with good graphics, NSFW and other additions for 1.6.1170. Vokriinator Black, overhauled cities, non-fetish OStim Suite and immersion. Full Jayserpa suite, Skyshards, variety of outfits for NPC and more to come! Care to try?",
+    "description": "High-quality Skyrim SE modlist for version 1.6.1170 with beautiful graphics, strong immersion, and tasteful NSFW content. Features Vokriinator Black, fully overhauled cities, OStim, more than 7000 items for the museum and much more to come. Ready to explore?",
     "author": "aquilman",
-    "maintainers": [
-      "github/InWaveless"
-    ],
+    "maintainers": ["github/InWaveless"],
     "game": "skyrimspecialedition",
-    "tags": [
-      "Combat Overhaul",
-      "DLC Required",
-      "High Fantasy",
-      "Steam"
-    ],
+    "tags": ["Combat Overhaul", "DLC Required", "High Fantasy", "Steam"],
     "nsfw": true,
-    "image_contains_title": false,
-    "force_down": true,
+    "image_contains_title": true,
+    "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/InWaveless/Krosis/main/splash.png",
       "readme": "https://github.com/InWaveless/Krosis",
-      "download": "https://authored-files.wabbajack.org/Krosis.wabbajack_b11640b2-c9af-4ea8-ba01-c6a3aa2e4d79",
+      "download": "https://authored-files.wabbajack.org/Krosis%202.0.wabbajack_f68275ae-a751-488f-ba94-61a4a1b6508f",
       "machineURL": "Krosis",
       "discordURL": "https://discord.gg/2mxz66fz4B"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "OoUDxCRZPfc=",
-      "Size": 2156368489,
-      "NumberOfArchives": 2676,
-      "SizeOfArchives": 184018996380,
-      "NumberOfInstalledFiles": 313182,
-      "SizeOfInstalledFiles": 289890648730,
-      "TotalSize": 473909645110
+      "Hash": "VmU9pM+DHoU=",
+      "Size": 2209619244,
+      "NumberOfArchives": 3145,
+      "SizeOfArchives": 233165328859,
+      "NumberOfInstalledFiles": 428976,
+      "SizeOfInstalledFiles": 376453797418,
+      "TotalSize": 609619126277
     },
-    "version": "1.1.1"
+    "version": "2.0.0"
   }
 ]
