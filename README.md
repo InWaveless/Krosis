@@ -2,6 +2,8 @@
 
 ## What is Krosis?
 
+## [Load Order](https://modlistgrimoire.com/modlists/krosis)
+
 **Krosis** means “Sorrow” or “Apologies” in the Dragon Language.
 
 It is an extensive modlist for **Skyrim Special Edition 1.6.1170**, designed to create a more beautiful, atmospheric, and content-rich experience. Krosis preserves the identity of Skyrim while giving its world a darker, more mature tone and substantially expanding both its visuals and gameplay.
