@@ -14,20 +14,20 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/InWaveless/Krosis/main/krosis%20logo.webp",
       "readme": "https://github.com/InWaveless/Krosis",
-      "download": "https://authored-files.wabbajack.org/Krosis%202.0.wabbajack_b60264d9-36f3-4d6d-9192-b4dd39b2f8b4",
-      "machineURL": "Krosis",
+      "download": "https://authored-files.wabbajack.org/Krosis%202.0.wabbajack_fcf1d204-236f-4d74-a363-e56c04a5f27d",
+      "machineURL": "Krosis/Krosis",
       "discordURL": "https://discord.gg/2mxz66fz4B"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "ccBSr+iEGSA=",
-      "Size": 2209620692,
+      "Hash": "efTVMSCuvfs=",
+      "Size": 2212339750,
       "NumberOfArchives": 3145,
       "SizeOfArchives": 233165328859,
-      "NumberOfInstalledFiles": 428976,
-      "SizeOfInstalledFiles": 376453797586,
-      "TotalSize": 609619126445
+      "NumberOfInstalledFiles": 429273,
+      "SizeOfInstalledFiles": 376686834923,
+      "TotalSize": 609852163782
     },
-    "version": "2.0.0"
+    "version": "2.0.1"
   }
 ]
