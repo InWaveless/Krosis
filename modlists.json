@@ -1,33 +1,45 @@
 [
   {
-    "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Krosis",
     "description": "High-quality Skyrim SE modlist for version 1.6.1170 with beautiful graphics, strong immersion, and tasteful NSFW content. Features Vokriinator Black, fully overhauled cities, OStim, more than 7000 items for the museum and much more to come. Ready to explore?",
     "author": "aquilman",
-    "maintainers": ["github/InWaveless"],
+    "maintainers": [
+      "github/InWaveless"
+    ],
     "game": "skyrimspecialedition",
-    "tags": ["Combat Overhaul", "DLC Required", "High Fantasy", "Steam"],
+    "official": false,
+    "tags": [
+      "Combat Overhaul",
+      "DLC Required",
+      "High Fantasy",
+      "Steam"
+    ],
     "nsfw": true,
+    "utility_list": false,
     "image_contains_title": false,
+    "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/InWaveless/Krosis/main/krosis%20logo.webp",
       "readme": "https://github.com/InWaveless/Krosis",
-      "download": "https://authored-files.wabbajack.org/Krosis%202.0.wabbajack_fcf1d204-236f-4d74-a363-e56c04a5f27d",
+      "download": "https://authored-files.wabbajack.org/Krosis 2.0.wabbajack_7c014886-9043-4d10-9f3f-ed1fd89b1bd8",
       "machineURL": "Krosis",
-      "discordURL": "https://discord.gg/2mxz66fz4B"
+      "discordURL": "https://discord.gg/2mxz66fz4B",
+      "websiteURL": "",
+      "nexusCollection": null
     },
     "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "efTVMSCuvfs=",
-      "Size": 2212339750,
-      "NumberOfArchives": 3145,
-      "SizeOfArchives": 233165328859,
-      "NumberOfInstalledFiles": 429273,
-      "SizeOfInstalledFiles": 376686834923,
-      "TotalSize": 609852163782
+      "Hash": "t/9uHQVix08=",
+      "Size": 2209807067,
+      "NumberOfArchives": 3157,
+      "SizeOfArchives": 233336039163,
+      "NumberOfInstalledFiles": 421365,
+      "SizeOfInstalledFiles": 376650314679,
+      "TotalSize": 609986353842
     },
-    "version": "2.0.1"
+    "version": "2.0.2",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2026-07-25T14:32:30.9631692Z",
+    "repositoryName": ""
   }
 ]
