@@ -3,24 +3,17 @@
     "title": "Krosis",
     "description": "High-quality Skyrim SE modlist for version 1.6.1170 with beautiful graphics, strong immersion, and tasteful NSFW content. Features Vokriinator Black, fully overhauled cities, OStim, more than 7000 items for the museum and much more to come. Ready to explore?",
     "author": "aquilman",
-    "maintainers": [
-      "github/InWaveless"
-    ],
+    "maintainers": ["github/InWaveless"],
     "game": "skyrimspecialedition",
     "official": false,
-    "tags": [
-      "Combat Overhaul",
-      "DLC Required",
-      "High Fantasy",
-      "Steam"
-    ],
+    "tags": ["Combat Overhaul", "DLC Required", "High Fantasy", "Steam"],
     "nsfw": true,
     "utility_list": false,
     "image_contains_title": false,
     "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "image": "https://raw.githubusercontent.com/InWaveless/Krosis/main/krosis%20logo.webp",
+      "image": "https://raw.githubusercontent.com/InWaveless/Krosis/main/img/krosis%20logo.webp",
       "readme": "https://github.com/InWaveless/Krosis",
       "download": "https://authored-files.wabbajack.org/Krosis 2.0.wabbajack_7c014886-9043-4d10-9f3f-ed1fd89b1bd8",
       "machineURL": "Krosis",

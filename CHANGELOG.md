@@ -1,18 +1,96 @@
 # Krosis Changelog
 
+## Quick Navigation
+
+- [2.0.1–2.0.2](#201202)
+- [2.0](#20)
+- [1.1.1](#111)
+- [1.1.0](#110)
+- [1.0.2](#102)
+
+
+---
+
+## 2.0.1–2.0.2
+
+### Changes
+
+- Gamepad support (experimental)
+- Minor fixes and patches
+- Seb263 mods update (CIF, Sanguine Symphony, Death Drop Overhaul)
+- Tweaked narrative loot crafting (now you have to craft special book for the recepies) to prevent crafting menu clutter
+- For Honor Reforge update
+- Added my home is your home, Hearthfire Multiple Adoptions
+
+[Back to top](#krosis-changelog)
+
+---
+
+## 2.0
+
+Krosis 2.0 is a major rebuild of the modlist rather than a small incremental update.
+
+### Major Changes
+- The combat system has been completely rebuilt. For Honor Reforged, For Honor in Skyrim, Chocolate Poise, Elden Parry, improved parrying, timed blocking, guard breaks, new combos, and more aggressive enemy AI have been added.
+
+- The amount of story content has been greatly expanded. Major quests and new lands now include Beyond Reach, VIGILANT, Wyrmstooth, Falskaar, Midwood Isle, Project AHO, The Forgotten City, Clockwork, Carved Brink, Warden of the Coast, Land of Vominheim, and many others.
+
+- Legacy of the Dragonborn received extensive new integration. Hall of Forgotten, additional collections, displays, replicas, inventory icons, player-home support, follower rooms, and patches for numerous quest mods have been added.
+
+- A large cast of fully voiced followers has been introduced. The list now includes Inigo, Lucien, Xelzaz, Remiel, Auri, Gore, Val Serano, Redcap, Ashe, Khajiit Will Follow, and other companions with commentary and cross-follower interactions.
+
+- Vanilla NPC dialogue has been significantly expanded. Numerous Follower Dialogue Expansion modules and new reactions to quests, necromancy, invisibility, vampirism, the Civil War, and other events have been added.
+
+- The relationship and adult systems have been revised. ORomance Plus now includes additional animations, SPID integration, and stat editors. The OStim setup has been updated and several older animation packs have been removed.
+
+- Full survival and immersion systems have been added. Krosis 2.0 includes SunHelm, Campfire, Bathing in Skyrim, Stress and Fear, Simple Hunting Overhaul, eating animations, and additional travel mechanics.
+
+- Skyrim’s world has been extensively rebuilt. Cities, outskirts, settlements, interiors, and smaller locations have been expanded, including new versions of Whiterun, Riften, Markarth, Windhelm, Solitude, Dawnstar, Falkreath, and many other locations.
+
+- Vegetation and environmental visuals have been revised. Nature of the Wild Lands has been replaced by a new combination of Fabled Forests, Happy Little Shrubs, Witchy Wilderness, and updated flora.
+
+- The graphical foundation has been replaced. The list now uses AMON ENB Reborn — Krosis Cut, updated Lux lighting, new materials, parallax, ENB particle lights, improved water, weather, visual effects, and regenerated LOD.
+
+- The interface has been redesigned. A new UI, improved map and compass, Spell Hotbar 2, an integrated bestiary, status indicators, expanded icons, notification history, a modern wait menu, and additional follower controls have been added.
+
+- Character progression has been expanded. Vokriinator Black remains the central perk framework, supported by new custom skill trees, spells, abilities, Skyshards, Experience, and additional perk-point sources.
+
+- Pilgrim has been replaced by Wintersun. Religion is now more deeply integrated with quests, artifacts, and additional content.
+
+- Nether’s Follower Framework has been replaced by a lighter follower-management system.
+
+- The alternate-start setup has been updated. The previous implementation has been replaced by Alternate Start Reborn with additional patches and starting options.
+
+- More weapons, armor, artifacts, and collectibles have been added. Their distribution and integration with the loot system and museum have also been expanded.
+
+- Stability and performance work has continued. SKSE plugins, engine fixes, navmeshes, animations, quests, and scripts have been updated. Custom patches, BodySlide, Pandora, Grass Cache, DynDOLOD, TexGen, and xLODGen outputs have been regenerated.
+
+### Important
+
+
+> **Krosis 2.0 replaces and restructures many core systems. A new game is required when upgrading from an older Krosis release. Saves created with Krosis 1.x are not supported.**
+
+[Back to top](#krosis-changelog)
+
+---
+
 ## 1.1.1
 
-Fix to skyparkour not working
+- Fixed SkyParkour not working.
+
+[Back to top](#krosis-changelog)
+
+---
 
 ## 1.1.0
 
-Rebalance of the combat system, stagger rework. Loot overhaul, and countless bugfixes, mod updates etc.
+Combat-system rebalance, stagger rework, loot overhaul, and numerous bug fixes and mod changes.
 
 - **Added:** 30 mods
 - **Removed:** 59 mods
 - **Updated:** 0 mods
 
-## Added Mods
+### Added Mods
 
 - ---KROSIS v1.1---_separator
 - A-Pose Bug Fix - Universal Behavior Runtime
@@ -45,7 +123,7 @@ Rebalance of the combat system, stagger rework. Loot overhaul, and countless bug
 - True Sons of Skyrim Refined Resources
 - WHEELER - Refined
 
-## Removed Mods
+### Removed Mods
 
 - (NEW) Thogra gra-Mugur - Orc Follower and Quest
 - (NEW) Thogra gra-Mugur - Orc Follower and Quest Exterior Camp
@@ -107,19 +185,25 @@ Rebalance of the combat system, stagger rework. Loot overhaul, and countless bug
 - Weapons Armor Clothing and Clutter Fixes
 - Wheeler CTD-Fix
 
-## Updated Mods
+### Updated Mods
 
 No mods updated.
 
+[Back to top](#krosis-changelog)
+
+---
+
 ## 1.0.2
 
-Updated some mods, removed useless things, reduced overall size of installed modlist. Updated Pandora to 4.0.3, fixed missing textures. Should be safe to update mid-game, but i recommend you to update in interior cell.
+Updated several mods, removed unnecessary files, reduced the installed size of the modlist, updated Pandora to 4.0.3, and fixed missing textures.
+
+> **Update note:** This version should be safe to install mid-game, but updating inside an interior cell is recommended.
 
 - **Added:** 8 mods
 - **Removed:** 6 mods
 - **Updated:** 0 mods
 
-### Added Mods
+#### Added Mods
 
 - Daedric Enigma - Dusk -
 - Disable Draugr Combat Idles (Taunts)
@@ -130,7 +214,7 @@ Updated some mods, removed useless things, reduced overall size of installed mod
 - The Restless Dead Update 1.2.6.1
 - Yovanna - A High Poly Head Racemenu Preset
 
-### Removed Mods
+#### Removed Mods
 
 - Edmond's Snowy Improvments for Rudys HQ Nordic Ruin Retexture
 - Kauz ENB
@@ -139,6 +223,8 @@ Updated some mods, removed useless things, reduced overall size of installed mod
 - Static Mesh Improvement Mod - Complex Parallax Addon
 - TMD Epic Waterfalls
 
-### Updated Mods
+#### Updated Mods
 
 - Pandora
+
+[Back to top](#krosis-changelog)

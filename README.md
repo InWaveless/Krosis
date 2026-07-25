@@ -2,7 +2,10 @@
 
 ## What is Krosis?
 
-## [Load Order](https://modlistgrimoire.com/modlists/krosis)
+## [Load Order](https://modlistgrimoire.com/modlists/krosis) | [Gameplay Guide](https://github.com/InWaveless/Krosis/blob/main/GAMEPLAY_GUIDE.md) | [Changelog](https://github.com/InWaveless/Krosis/blob/main/CHANGELOG.md)
+
+![Krosis Logo](/img/krosis%20logo.webp)
+
 
 **Krosis** means “Sorrow” or “Apologies” in the Dragon Language.
 
