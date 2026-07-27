@@ -3,17 +3,10 @@
     "title": "Krosis",
     "description": "High-quality Skyrim SE modlist for version 1.6.1170 with beautiful graphics, strong immersion, and tasteful NSFW content. Features Vokriinator Black, fully overhauled cities, OStim, more than 7000 items for the museum and much more to come. Ready to explore?",
     "author": "aquilman",
-    "maintainers": [
-      "github/InWaveless"
-    ],
+    "maintainers": ["github/InWaveless"],
     "game": "skyrimspecialedition",
     "official": false,
-    "tags": [
-      "Combat Overhaul",
-      "DLC Required",
-      "High Fantasy",
-      "Steam"
-    ],
+    "tags": ["Combat Overhaul", "DLC Required", "High Fantasy", "Steam"],
     "nsfw": true,
     "utility_list": false,
     "image_contains_title": false,
@@ -22,22 +15,22 @@
     "links": {
       "image": "https://raw.githubusercontent.com/InWaveless/Krosis/main/img/krosis%20logo.webp",
       "readme": "https://github.com/InWaveless/Krosis",
-      "download": "https://authored-files.wabbajack.org/Krosis 2.0.wabbajack_43763fe8-e8bc-498d-ab1d-ef2446ff3ee9",
+      "download": "https://authored-files.wabbajack.org/Krosis%202.0.wabbajack_8f4c8d4f-2ce7-4779-a897-4e460a339aef",
       "machineURL": "Krosis",
       "discordURL": "https://discord.gg/2mxz66fz4B",
       "websiteURL": "",
       "nexusCollection": null
     },
     "download_metadata": {
-      "Hash": "RqHAq7nokGs=",
-      "Size": 2217536110,
-      "NumberOfArchives": 3172,
-      "SizeOfArchives": 234490048230,
-      "NumberOfInstalledFiles": 423398,
-      "SizeOfInstalledFiles": 379070358444,
-      "TotalSize": 613560406674
+      "Hash": "ePuI1ZgkT3M=",
+      "Size": 2214701901,
+      "NumberOfArchives": 3120,
+      "SizeOfArchives": 234353650799,
+      "NumberOfInstalledFiles": 423366,
+      "SizeOfInstalledFiles": 378975125631,
+      "TotalSize": 613328776430
     },
-    "version": "2.1.0",
+    "version": "2.1.1",
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2026-07-27T13:01:55.2040831Z",
     "repositoryName": ""

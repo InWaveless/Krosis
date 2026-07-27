@@ -2,6 +2,7 @@
 
 ## Quick Navigation
 
+- [2.1.1](#211)
 - [2.1.0](#210)
 - [2.0.1–2.0.2](#201202)
 - [2.0](#20)
@@ -9,6 +10,19 @@
 - [1.1.0](#110)
 - [1.0.2](#102)
 
+
+## 2.1.1
+
+Safe to update mid-game, ignore missing plugins
+
+### Changes
+
+- Exploit fixes update
+- Custom patches for exploit fixes
+- Script rewrite in solitude opening scene (Roggvir execution), to prevent crash
+- Removed Creation Kit dependency (i forgot about it)
+
+[Back to top](#krosis-changelog)
 
 ---
 
@@ -27,6 +41,8 @@ Since i rebuild replacers and added some script tweaks - it's not recommended to
 - Stability improvements
 
 [Back to top](#krosis-changelog)
+
+---
 
 ## 2.0.1–2.0.2
 
