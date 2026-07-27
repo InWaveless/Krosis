@@ -2,6 +2,7 @@
 
 ## Quick Navigation
 
+- [2.1.0](#210)
 - [2.0.1–2.0.2](#201202)
 - [2.0](#20)
 - [1.1.1](#111)
@@ -10,6 +11,17 @@
 
 
 ---
+
+## 2.1.0
+
+Since i rebuild replacers and added some script tweaks - it's not recommended to update mid save. Update on your own risk. 
+
+- Minor fixes and compatibility patches
+- Fixes for Gamepad support
+- Replacers rebuild
+- Added more vanilla quest extensions
+- Plugins and dlls updates
+- Fixed ctd in racemenu scar selector
 
 ## 2.0.1–2.0.2
 
