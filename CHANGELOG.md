@@ -14,7 +14,9 @@
 
 ## 2.1.0
 
-Since i rebuild replacers and added some script tweaks - it's not recommended to update mid save. Update on your own risk. 
+Since i rebuild replacers and added some script tweaks - it's not recommended to update mid save. If you're happy with you current playthrough, you probably don't need to update. Update on your own risk. 
+
+### Changes
 
 - Minor fixes and compatibility patches
 - Fixes for Gamepad support
@@ -22,6 +24,9 @@ Since i rebuild replacers and added some script tweaks - it's not recommended to
 - Added more vanilla quest extensions
 - Plugins and dlls updates
 - Fixed ctd in racemenu scar selector
+- Stability improvements
+
+[Back to top](#krosis-changelog)
 
 ## 2.0.1–2.0.2
 
