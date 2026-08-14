@@ -3,10 +3,17 @@
     "title": "Krosis",
     "description": "High-quality Skyrim SE modlist for version 1.6.1170 with beautiful graphics, strong immersion, and tasteful NSFW content. Features Vokriinator Black, fully overhauled cities, OStim, more than 7000 items for the museum and much more to come. Ready to explore?",
     "author": "aquilman",
-    "maintainers": ["github/InWaveless"],
+    "maintainers": [
+      "github/InWaveless"
+    ],
     "game": "skyrimspecialedition",
     "official": false,
-    "tags": ["Combat Overhaul", "DLC Required", "High Fantasy", "Steam"],
+    "tags": [
+      "Combat Overhaul",
+      "DLC Required",
+      "High Fantasy",
+      "Steam"
+    ],
     "nsfw": true,
     "utility_list": false,
     "image_contains_title": false,
@@ -15,24 +22,24 @@
     "links": {
       "image": "https://raw.githubusercontent.com/InWaveless/Krosis/main/img/krosis%20logo.webp",
       "readme": "https://github.com/InWaveless/Krosis",
-      "download": "https://authored-files.wabbajack.org/Krosis%202.0.wabbajack_c56aa9e1-e8db-4b2f-91a0-78a927375d06",
+      "download": "https://authored-files.wabbajack.org/Krosis 2.0.wabbajack_c422e027-3ac9-4765-b01b-1bfb513a2cd7",
       "machineURL": "Krosis",
       "discordURL": "https://discord.gg/2mxz66fz4B",
       "websiteURL": "https://krosis.tech/en",
       "nexusCollection": null
     },
     "download_metadata": {
-      "Hash": "RS3Be08A5IQ=",
-      "Size": 2929381810,
-      "NumberOfArchives": 3451,
-      "SizeOfArchives": 256763952660,
-      "NumberOfInstalledFiles": 384371,
-      "SizeOfInstalledFiles": 415497242348,
-      "TotalSize": 672261195008
+      "Hash": "9N6YSyMF1PU=",
+      "Size": 2940172507,
+      "NumberOfArchives": 3452,
+      "SizeOfArchives": 256764207287,
+      "NumberOfInstalledFiles": 398892,
+      "SizeOfInstalledFiles": 415712465572,
+      "TotalSize": 672476672859
     },
-    "version": "2.2.0",
+    "version": "2.2.1",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-07-27T13:01:55.2040831Z",
+    "dateUpdated": "2026-08-14T18:15:40.8835549Z",
     "repositoryName": ""
   }
 ]
