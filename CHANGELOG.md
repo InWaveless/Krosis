@@ -2,6 +2,7 @@
 
 ## Quick Navigation
 
+- [2.2.0](#220)
 - [2.1.1](#211)
 - [2.1.0](#210)
 - [2.0.1–2.0.2](#201202)
@@ -10,6 +11,18 @@
 - [1.1.0](#110)
 - [1.0.2](#102)
 
+## 2.2.0
+
+- A lot of bugfixes, improvements, ctds prevention
+- More armors to craft and to display in the museum
+- Added vicn missing quests: glenmoril, unslaad
+- Added optional sfw profile (nevernude option, stream friendly)
+- Updated some mods, plugins, etc
+- Rebalanced combat, now it's blade and blunt with my personal stamina tweaks based on for honor stamina
+
+[Back to top](#krosis-changelog)
+
+---
 
 ## 2.1.1
 
