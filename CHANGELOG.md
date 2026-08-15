@@ -2,6 +2,7 @@
 
 ## Quick Navigation
 
+- [2.2.2](#222)
 - [2.2.1](#221)
 - [2.2.0](#220)
 - [2.1.1](#211)
@@ -12,7 +13,16 @@
 - [1.1.0](#110)
 - [1.0.2](#102)
 
+## 2.2.2
+
+- Fix elder council amulet ctd
+
+[Back to top](#krosis-changelog)
+
+---
+
 ## 2.2.1
+
 - Minor fixes, updated some custom patches
 - Trying to fix wj installation issue
 
