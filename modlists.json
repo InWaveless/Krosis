@@ -3,41 +3,34 @@
     "title": "Krosis",
     "description": "High-quality Skyrim SE modlist for version 1.6.1170 with beautiful graphics, strong immersion, and tasteful NSFW content. Features Vokriinator Black, fully overhauled cities, OStim, more than 7000 items for the museum and much more to come. Ready to explore?",
     "author": "aquilman",
-    "maintainers": [
-      "github/InWaveless"
-    ],
+    "maintainers": ["github/InWaveless"],
     "game": "skyrimspecialedition",
     "official": false,
-    "tags": [
-      "Combat Overhaul",
-      "DLC Required",
-      "High Fantasy",
-      "Steam"
-    ],
+    "tags": ["Combat Overhaul", "DLC Required", "High Fantasy", "Steam"],
     "nsfw": true,
     "utility_list": false,
     "image_contains_title": false,
     "DisplayVersionOnlyInInstallerView": false,
-    "force_down": true,
+    "force_down": false,
     "links": {
       "image": "https://raw.githubusercontent.com/InWaveless/Krosis/main/img/krosis%20logo.webp",
       "readme": "https://github.com/InWaveless/Krosis",
-      "download": "https://authored-files.wabbajack.org/Krosis 2.0.wabbajack_e4f180e1-f1e2-483b-9db8-3fef7cc1932e",
+      "download": "https://authored-files.wabbajack.org/Krosis%202.0.wabbajack_2c87ee73-1779-4a76-9252-772f1348b464",
       "machineURL": "Krosis",
       "discordURL": "https://discord.gg/2mxz66fz4B",
       "websiteURL": "https://krosis.tech/en",
       "nexusCollection": null
     },
     "download_metadata": {
-      "Hash": "XIqfqNaFbUQ=",
-      "Size": 2939378455,
-      "NumberOfArchives": 3454,
-      "SizeOfArchives": 257638379500,
-      "NumberOfInstalledFiles": 384416,
-      "SizeOfInstalledFiles": 415522777623,
-      "TotalSize": 673161157123
+      "Hash": "uXmz1g4nFFw=",
+      "Size": 4224476913,
+      "NumberOfArchives": 3481,
+      "SizeOfArchives": 264855499322,
+      "NumberOfInstalledFiles": 446567,
+      "SizeOfInstalledFiles": 414533141631,
+      "TotalSize": 679388640953
     },
-    "version": "2.2.2",
+    "version": "2.3.0",
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2026-08-15T07:44:37.1186566Z",
     "repositoryName": ""

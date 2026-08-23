@@ -2,6 +2,7 @@
 
 ## Quick Navigation
 
+- [2.3.0](#230)
 - [2.2.2](#222)
 - [2.2.1](#221)
 - [2.2.0](#220)
@@ -12,6 +13,26 @@
 - [1.1.1](#111)
 - [1.1.0](#110)
 - [1.0.2](#102)
+
+## 2.3.0
+
+- Removed sunhelm for the survival improved SKSE + tears of kyne
+- Fix ctd at the dragon rising quest
+- Added immersive wenches
+- Added katana crafting se + integration into owl leveled lists
+- Removed funny encounter zones with 40+ level
+- Removed underwear.dll for the custom version of N.U.D.E
+- Updated and regenerated DynDOLOD
+- Added reading is good
+- Added penitus oculatus quest
+- Added Soul Resurrection as alternative death framework (optional)
+- Removed Shadow Of Skyrim
+- Added some missing patches + patches for the penitus oculatus
+- Updated some mods, fixed some minor bugs
+
+[Back to top](#krosis-changelog)
+
+---
 
 ## 2.2.2
 
