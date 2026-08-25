@@ -2,6 +2,8 @@
 
 ## Quick Navigation
 
+
+- [2.3.1](#231)
 - [2.3.0](#230)
 - [2.2.2](#222)
 - [2.2.1](#221)
@@ -13,6 +15,16 @@
 - [1.1.1](#111)
 - [1.1.0](#110)
 - [1.0.2](#102)
+
+## 2.3.1
+
+- Improved performance
+- Updated some mods
+- Fixes for winterhold: fixed missing missives board, removed conflicting house, replaced A Proper Thane for Winterhold with Simple Winterhold Housecarl
+
+[Back to top](#krosis-changelog)
+
+---
 
 ## 2.3.0
 
