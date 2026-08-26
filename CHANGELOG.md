@@ -2,7 +2,7 @@
 
 ## Quick Navigation
 
-
+- [2.3.2](#232)
 - [2.3.1](#231)
 - [2.3.0](#230)
 - [2.2.2](#222)
@@ -15,6 +15,15 @@
 - [1.1.1](#111)
 - [1.1.0](#110)
 - [1.0.2](#102)
+
+## 2.3.2
+
+- Fix for The Tournament of Ten Tweaks - MCO
+- Proper replacer for Simple Winterhold Housecarl
+
+[Back to top](#krosis-changelog)
+
+---
 
 ## 2.3.1
 
