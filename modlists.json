@@ -22,24 +22,24 @@
     "links": {
       "image": "https://raw.githubusercontent.com/InWaveless/Krosis/main/img/krosis%20logo.webp",
       "readme": "https://github.com/InWaveless/Krosis",
-      "download": "https://authored-files.wabbajack.org/Krosis 2.0.wabbajack_e905546b-751d-4ada-9612-cfef98dd732e",
+      "download": "https://authored-files.wabbajack.org/Krosis 2.0.wabbajack_0f4c330c-9b97-4f1a-81a1-3228d286f659",
       "machineURL": "Krosis",
       "discordURL": "https://discord.gg/2mxz66fz4B",
       "websiteURL": "https://krosis.tech/en",
       "nexusCollection": null
     },
     "download_metadata": {
-      "Hash": "W4h+/Hb2sIA=",
-      "Size": 4264363368,
-      "NumberOfArchives": 3475,
-      "SizeOfArchives": 267317873909,
-      "NumberOfInstalledFiles": 460305,
-      "SizeOfInstalledFiles": 406794544179,
-      "TotalSize": 674112418088
+      "Hash": "ytO6K1HggJw=",
+      "Size": 4265515369,
+      "NumberOfArchives": 3474,
+      "SizeOfArchives": 267315652452,
+      "NumberOfInstalledFiles": 460312,
+      "SizeOfInstalledFiles": 406815706692,
+      "TotalSize": 674131359144
     },
-    "version": "2.3.1",
+    "version": "2.3.2",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-08-25T13:35:45.0118938Z",
+    "dateUpdated": "2026-08-26T09:02:07.6802947Z",
     "repositoryName": ""
   }
 ]
