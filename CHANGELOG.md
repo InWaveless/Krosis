@@ -2,6 +2,7 @@
 
 ## Quick Navigation
 
+- [2.3.3](#233)
 - [2.3.2](#232)
 - [2.3.1](#231)
 - [2.3.0](#230)
@@ -15,6 +16,16 @@
 - [1.1.1](#111)
 - [1.1.0](#110)
 - [1.0.2](#102)
+
+## 2.3.3
+
+- Nerfed mage poise damage
+- Removed kaputt due to broken killmoves
+- Make list installable with the latest steam version
+
+[Back to top](#krosis-changelog)
+
+---
 
 ## 2.3.2
 
