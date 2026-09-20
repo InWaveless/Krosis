@@ -2,6 +2,7 @@
 
 ## Quick Navigation
 
+- [2.4.0](#240)
 - [2.3.3](#233)
 - [2.3.2](#232)
 - [2.3.1](#231)
@@ -16,6 +17,350 @@
 - [1.1.1](#111)
 - [1.1.0](#110)
 - [1.0.2](#102)
+
+## 2.4.0
+
+- Performance improvements, different approach to the game balance, rebalanced some perks.
+- Now moveset changes with your weapon skill: different movesets for each weapon type (except rare ones). They're divided by 3 tiers - low, mid, high. High is For Honor Reforged with impactful animations and features.
+- Timed block now perk, as well as parry in Guard skill tree
+- Dodge is unlockable in light armor perk tree
+- Features of Dova Jump (like charged jump, or double jump) are now locked behind sneak skill tree
+- Added Sets of Skills to improve build crafting
+- Archery skill tree was rebalanced as well, integrated dodge shot, rapid shot and charged shot into main perks, instead of relying on custom skill tree.
+- A lot of bug fixes and improvements i even forgot to write down.
+
+### Summary
+- Added: 174
+- Removed: 74
+- Updated: 68
+- Enabled: 1
+- Disabled: 9
+
+### Added
+- 3BA Inquisitor Armor — 1.0.0.0
+- ADXP I MCO elden rim moveset collection (SCAR) — 1.1.0.0
+- ADXP l MCO Desert Race Animation Complete Pack — 1.1.0.0
+- ADXP l MCO Imperium Animation Complete Pack — 1.1.0.0
+- ADXP l MCO Nordic Animation Complete Pack — 1.3.0.0
+- AI Pathing Freeze Fix — 1.0.0.0
+- Animal Fat - BiSR Patch — 1.0.0.0
+- Animation Motion Fix — 1.2.0.0
+- Audio Util — 0.9.19.0
+- Auto Parallax — d2025.12.4.0
+- AutoBlend — 1.2.0.0
+- AutoBlend Output
+- Bathing in Skyrim Renewed - Underdog Animations Patch — 1.0.0.0
+- Beldam's Weave 2K 3BA — 1.1.0.0
+- Blade and Blunt - Armor Rating Scaling Standalone — f1.02
+- Carriage Guards — 1.2.0.0
+- Casting Bar SKSE Menu Framework — 3.0.0.0
+- CFTO Ferry Integration Patches — 2.1.1.0
+- Cinematic Conversation Camera — 1.4.1.0
+- Citizens of Morthal - Morthal NPC Overhaul — 2.1.0.0
+- CK Address Library AIO — 0.6.0.0-b682
+- Comprehensive Critical Damage Fix - Adamant Patch — 1.0.0.0
+- Curse of the Hound Amulet - True HUD Patch — 1.0.0.0
+- Custom Skills - GLENMORIL — 2.1.0.0
+- Custom Skills - VIGILANT — 2.0.0.0.a
+- Custom Skills Menu Encoding Patches - Glenmoril and Vigilant for AE — 1.6.640.0-1
+- Dac0da — 1.1.0.0b
+- DAc0da - CoMAP Addon — 1.4.0.0
+- DAC0DA - English Translation — 1.1.0.0
+- Debug Menu - In-Game Navmesh Viewer and More — 4.0.1.0
+- Dirt and Blood HD Retexture — 1.2.0.0
+- Dova Jump NG patch — 1.1.0.0
+- Dragonborn ReVoiced (DBReV) — 1.5.2.0
+- DVE — 2026.0.0.0-06-16
+- Einherjr Armor 3BA-BHUNP-CBBE-UNP - 2K — 2.2.0.0
+- Eivor - ADXP I MCO Sprint Attacks — 1.1.0.0
+- Enhanced Rocks and Mountains - Blending Patch And Other Fixes — 3.0.0.0
+- Exquisite NPC - Simple Winterhold Replacer — 1.9.0.0
+- Female Armors and Accessories Collection - Optimized Textures — 1.2.0.0
+- Female Merchant Counter Animations (OAR) — 1.0.0.0
+- Final Look Tuner FLT - Live Color Adjust - Presets — 1.0.0.0
+- Fitting Room — 1.2.0.0
+- Fix NPC PermaBlock - Final Polishes — 1.4.0.0
+- For BSA
+- Freak's Floral Fields — 3.2.3.0
+- Freak's Floral Solstheim - A Cathedral Grass Overhaul — 1.0.1.0
+- Freak's Floral Veil - A Cathedral Grass Overhaul — 1.0.0.0
+- Fury - an Adamant Addon — 2.0.0.0
+- GLAM Jenassa Irileth — 1.0.0.0
+- GLAM Karliah — 1.5.0.0
+- GLAM Thieves - Vex Sapphire Tonilia — 1.0.0.0
+- Glenmoril Armors and Weapons Retexture SE — 1.0.0.0
+- Guards and Stormcloaks Armors Retexture SE — 1.1.1.0
+- Guards Pose with Weapons — 1.2.1.0
+- Hair Colour Sync NG — 1.3.1.0
+- Hand to Hand - Trainers and Skill Books Addon — 1.0.5.0
+- Harbinger - AI Package Management Framework — 0.9.4.0
+- Heart of Ice - Astrid - OStim Integration — 1.3.1.0-Beta
+- Heart of Ice - Astrid 3BA bodyslide — 2.3.0.0
+- Heart of Ice - Inigo Patch — ini1.0
+- Heralds of the Aldmeri Dominion - Thalmor NPC Overhaul — 1.0.0.0
+- High Quality Hearth - 3D Farmhouse Firepit Replacer (plus PBR) — 1.1.0.0
+- Immersive Dialogue Expansion - Thalmor — 1.0.4.0-LATEST
+- Improved Camera SE — 1.1.2.0
+- Imrpoved MFA Werewolf Headparts - Patches — 3.0.0.0
+- In-Game Patcher - SKSE plugin — 1.4.2.0
+- Inquisitor HDT-SMP Armor — 1.1.0.0
+- Inquisitor HDT-SMP Armor - HIMBO V5 Refit — 1.0.0.0
+- Ivy Riverwood Overhaul — 1.6.2.0
+- iWant Prisma Widgets — 0.3.0.0
+- Journeyman - A Fast Travel Overhaul — 1.2.0.0
+- Kalilies NPCs De-Standalone — 1.32.0.0
+- Killmove Fixes — 1.0.0.0
+- Krosis - Bodyslide 3BA
+- Krosis - Bodyslide HIMBO
+- Krosis - Dova Jump Perk Integration — d2026.9.8.0
+- Krosis - Dual Shealth Meshes
+- Light In The Pockets - Thieves Guild NPC Overhaul — 1.2.0.0
+- Load Time Profiler — 1.2.2.0
+- Log Watcher - Real-time Analysis of SKSE Logs — 3.0.2.0
+- Maxsu Modern Staggerlock Rebalanced — 1.0.0.0
+- MCO Base Attack Updates and Fixes — 1.5.0.0
+- Mfg Fix — 1.6.1.0
+- Monster Facial Animation (MFA) - Special Edition — 2.8.0.0b
+- Monster Facial Animation and Fluffworks compatibility patch — 1.0.0.0
+- NAT.CS III — 2.0.0.0
+- No Grass In Objects - Grass Control — 1.6.3.0
+- Norden UI WHAT patch
+- Northbourne NPCs Resources — 1.3.0.0
+- NPCs Learn Hand to Hand and More — 1.1.0.0
+- NPCs Learn Skills and Spells — 1.2.0.0
+- Occlusion for Quest Mods — 1.14.0.0
+- Open Shaders — 2.13.0.0
+- Oxygen Meter 2 - Fixes and Additions — 1.0.8.0
+- Papyrus MessageBox - SKSE NG — 1.0.0.0
+- Papyrus Profiler — 2.1.0.0
+- PaulMix's dTry Key Utils extend — 3.1.5.0
+- PC Head Tracking and Voice Type SE — 4.8.0.0
+- PC Head Tracking Crash Fix — 1.0.0.0
+- Persistent Favorites — 1.0.6.0
+- PI-CHO ENB (Based on Silent Horizons) — N9.7
+- Practical Necromancy - Soul Harvest Lesser Power — 1.0.0.0
+- Precision - Dac0da lightsabers patch — 1.0.0.0
+- Progressive Tempering — 1.0.1.0
+- Pumping Iron - Dynamic Muscle Growth — 1.0.0.0
+- Rim Lighting Removed — 1.1.1.0
+- RM Heels Fix — 1.2.0.0
+- RogueUnicorn - City Trees — 11.6.26.0
+- Sa'chil - Bug Fixes — 1.1.0.0
+- Sa'chil - NAT.ENB Weather Plugin Fix — 1.0.0.0
+- Sa'chil Addon - Fluffy Tails - Physics — 1.0.0.0
+- Sa'chil Body Patches — 2.2.0.0
+- Sa'chil Follower - Minor Fix — 1.0.0.0
+- Saadia - High Poly Replacer — 1.0.0.0
+- Script Sources
+- Sentinel Zweihander — 1.0.0.0
+- Set of Skills — 2.0.0.0
+- Sets of Skills - a Skyrim Class Mod - Settings Loader — 1.0.0.0
+- Sets of Skills - Improved UI — 2.0.0.0
+- Sets of Skills - Val's CSM — 1.2.0.0
+- Shader Cache
+- Shadow Opportunist - A Sneak Addon — 1.1.0.0
+- Simple Combat Injuries - Campfire Patch — 2.0.0.0
+- Simplicity of Settlements - Dragon Bridge - Base Object Swapper — 0.7.1.0
+- SKSE - Real Time Script Profiler — 1.0.0.0
+- Skyrim Cave Fixes PatchHub — 1.11.0.0
+- Skyrim Water Inertia — 1.4.1.0
+- Smart Harvest NG AutoLoot — 7.1.0.0
+- Spaghetti's Mods - NavCut Addon — 1.0.0.0
+- Spaghetti's Palaces - Dragonsreach - Lux Patch — 1.0.0.0
+- Spaghetti's Towns - Dragon Bridge — 1.0.0.0
+- Spaghetti's Towns - Rorikstead — 1.1.0.0
+- SSE-AT ESLified
+- Standardization of Spelling of Sets of Skills — 1.0.4.0
+- Stay In Shape - A Pumping Iron Addon — f2.01
+- STB Features — 1.2.0.0
+- Stronger Swimming Animations SE — 2.0.0.0
+- Survival Food for OWLC0DA — 1.0.0.0
+- Swimming Extensions - Swimming Overhaul (Svimex) - Pandora — 1.0.0.0.PandoraCache
+- TGV Kynesgrove and Mixwater Mill - SMIM — 2.0.0.0
+- The Great Town of Ivarstead Patch Collection — 3.5.0.0
+- The Great Town of Ivarstead SSE — 1.3.4.0
+- The Way of the Voice - Greybeard NPC Overhaul — 1.0.0.0
+- Throwable Weapons for NPCs SKSE — 1.1.0.0
+- Throwable Weapons SKSE — 5.4.0.0
+- TK Dodge Perk Integration — 2.1.0.0
+- Tomato's Solitude Remastered - PBR-CPM — 1.1.0.0.ENB
+- TomatoRim - Farmhouses PBR and CM — 9000.0.0.0
+- Totems of Hircine Quest Always Available — 2.0.0.0
+- Twist the Knife - an Adamant Addon — 2.1.0.0
+- Ultimate Immersion Toggle - UI Toggle - Hide Your HUD-UI - Rebuild — 1.5.0.0
+- UNDERDOG - Animations - OAR — 3.0.1.0
+- Unique Region Names Framework — 1.0.2.0
+- Vampire Lord and Lady - Revamped — 1.0.0.0
+- Vampire Lord Retexture — 1.3.0.0
+- Vanargand Animations - Sword Dual Wield Moveset MCO - SkySA — 1.2.0.0
+- Vanguard - an Adamant Addon — 2.0.0.0
+- Vanilla Makeup HD — 1.0.0.0
+- Verdrenna ENB — 2.5.0.0
+- VioLens - A Killmove Mod SE — 2.30.0.0
+- VioLens - A Killmove Mod SE - Settings Loader — 2.0.0.0
+- Vyrthland - Landscapes - AIO - CPM — 1.0.0.0
+- Walk With Me - Follower and Companion Pathing System — 0.2.0.0
+- Water Collision Crash Fix NG — 1.1.1.0
+- WereCircle Redux - Fluffy patch — 3.0.0.0
+- Whereabouts - Search Move and Track NPCs — 1.1.0.0
+- Wildcat - Combat of Skyrim — 7.1.0.0
+- Wildcat - Combat of Skyrim - Settings Loader — 2.0.0.0
+- Wildcat - Combat of Skyrim no spell config — f1.015
+- Xavbio Cubemap Patch Hub (3BA - HIMBO) — 2.8.2.0
+- Xenius Character Enhancement Complete — 1.3.0.0
+- YXZ Snow Reforged CPM 2K (Low Brightness Patch) — 1.1.0.0
+- Zaki 8K-4K Textures for Bathing in Skyrim - Renewed — 1.0.0.0
+- Zaki Dirt and Blood Racemenu Overlays — 1.0.0.0
+
+### Removed
+- [Dint999] HairPack02 SSE 1.12 (base)
+- A Cat's Life - JK's Skyrim Patch
+- Blade and Blunt - A Combat Overhaul
+- Blade and Blunt - I4 icons
+- Blubbos Whiterun 2022
+- Blubbos Whiterun 2022 - Patch Collection
+- Bow Rapid Combo Custom Skill Tree - Dodge
+- Bruiser - Hand to Hand Skill
+- CFTO Bittercup Compatibility Patch - JK's Skyrim
+- Chocolate Poise
+- Chocolate Poise and Elden Parry Integration
+- Dragon Landing Overhaul
+- Dynamic Dodge Shot - Original Animations
+- Dynamic Fur Morph
+- Dynamic Wetness - Fix
+- ESLifier Output RU
+- Face Discoloration Fix
+- Fluffy Khajiit 3
+- Fluffy Khajiit 3 - Enhanced Khajiit Patches
+- Fur Shaders for Xavbio Retextures Redux - HIMBO Refit - Addons
+- Fur Shaders for Xavbio Retextures Redux Meshes
+- Heels Fix
+- Icy Cave Remaster - Ice Material Patch
+- Immersive Equipping Animations
+- Improved Alternate Conversation Camera
+- JK's Skyrim
+- JK's Skyrim Patch Collection
+- JKs Skyrim - AI Overhaul SSE Patch
+- Keep Up - Follower Locomotion Fix
+- Krosis - Bodyslide
+- MCM for Blade And Blunt
+- MCO - DXP version Updated
+- Menu Studio
+- Nordic Farmfield Stonewalls
+- Nordic Farmhouses Complex Parallax Material
+- Nordic Stonewall Terraces
+- Nordic Stonewalls
+- NPC Spell Variance - Creation Club
+- NPC Spell Variance - Lost Grimoire SSE
+- NPC Spell Variance - Mysticism
+- NPC Spell Variance - Spell Variety AI
+- NPC Spell Variance - Spell Variety AI - KID - Apocalypse
+- NPC Spell Variance - Spell Variety AI - KID - ODIN
+- NPC Spell Variance - Spell Variety AI - KID - Triumvirate
+- NPC Spell Variance - Vanilla Spells
+- NPC Underwear Distribution Engine (NUDE)
+- NUDE - HIMBO V5
+- NVIDIA Reflex Support
+- Parrying RPG
+- Patch Hava's Wares and JKs Skyrim Windhelm
+- Real Beasts
+- Riton Whiterun
+- Riton's Medieval Solitude - Lux Patch
+- Riverwood Has Walls
+- Riverwood Has Walls - Patches
+- Rob's Bug Fixes - JK's Skyrim
+- Skyrim Priority SE AE - CPU Performance FPS Optimizer
+- Skyrim Vanity System
+- Slip off Slopes
+- Small Talk
+- Sprint Swim Redux Most Bugs Fixed
+- Sprint Swim Redux SKSE
+- Thuldor's Ivarstead - CFTO Patch for CFTO-JK-Patch
+- Thuldor's Ivarstead - Kyne Statue
+- Thuldor's Ivarstead - Patch Collection
+- Universal (SKSE) Rim Lighting Fix
+- Vanaheimr - Farmhouses - Lux Patch
+- Vanaheimr - Landscapes - AIO - CPM
+- Vanaheimr Mountains
+- Vokriinator Perks For NPCs
+- Weapons and Armors Remastered - USSEP Patch
+- Wider Block Angle
+- Witchy Wilderness
+- YXZ Roads of Skyrim - Diversity Blended Roads Redone
+
+### Updated
+- (BEST EVIL FOLLOWER) Follower Dialogue Expansion - Fura Bloodmouth — 1.1.0.0-MOST-UPDATED → 1.2.0.0-LATEST
+- Address Library for SKSE Plugins — 11.0.0.0 → 13.0.0.0
+- Ancient Nord Armors and Weapons Retexture SE — 2.0.0.0 → 2.0.2.0
+- Apparel Preview — 0.4.3.0 → 1.1.2.0
+- Ashe - A Visual Replacer - Custom Textures — 1.0.1.0 → 1.0.2.0-CustomTextures
+- Base Object Swapper — 3.4.1.0 → 3.5.0.0
+- BBR - a hundred Skyrim collectible cards — 1.0.0.0 → 1.0.2.0
+- Chocolate Poise - Blessed Settings — 3.31.0.0 → 4.1.0.0
+- Core Impact Framework (CIF) — 2.0.4.0 → 2.0.5.0
+- DAc0da - HIMBO Refits — 2.2.4.0 → 2.2.3.0
+- Dova Jump — 0.6.1.0 → 0.9.1.3
+- Dragon Armors and Weapons Retexture SE — 2.2.1.0 → 2.2.2.0
+- Elven Armors and Weapons Retexture SE — 2.0.0.0 → 2.0.1.0
+- Embers XD — 3.2.2.0 → 3.2.7.0
+- Enhanced Rocks and Mountains - Complex Material and PBR — 1.0.0.0 → 1.1.2.0
+- Enhanced Rocks and Mountains - Fix and Addon — 1.0.0.0 → 6.4.0.0
+- Equipment Durability System NG — 4.9.1.0 → 5.1.0.0
+- Faction Armors and Weapons Retexture SE — 1.1.0.0 → 1.1.1.0
+- Faithful Faces - Carriage Guards — 1.0.0.0 → 1.0.0.0 (Nexus file 604450 → 606404)
+- Faster HDT-SMP - New — 4.0.1.0 → 4.1.1.0
+- Follower Dialogue Expansion - Borgakh the Steel Heart — 1.1.0.0 → 2.0.0.0
+- Follower Dialogue Expansion - Roggi Knot-Beard — 1.0.0.0-MOST-UPDATED → 1.0.1.0-LATEST
+- For Honor Stamina System — 2.0.0.0 → 2.0.0.0 (Nexus file 769985 → 803270)
+- GCrow 3BA CBPC Config - Firmer Butt — 2.6.0.0 → 1.1.0.0
+- Glass Armors and Weapons Retexture SE — 2.2.0.0 → 2.2.1.0
+- HDT-SMP Vanilla - CBBE 3BA Conversions — 1.1.0.0a → 2.1.0.0fix
+- Helmet Toggle 2 — 3.6.1.0 → 3.6.2.0
+- Icy Cave Remaster — 3.0.0.0 → 3.2.0.0
+- Icy Mesh Remaster - Meshes — 3.36.0.0 → 3.37.0.0
+- Icy Windhelm — 1.1.0.0 → 2.4.0.0
+- Icy Windhelm - Lux Orbis patch — 1.0.0.0 → 1.0.0.0 (Nexus file 512730 → 513683)
+- Immersive Dialogue Expansion - Jorrvaskr (Companions) — 1.0.2.0-MOST-UPDATED → 1.0.3.0-LATEST
+- Imperial Armors and Weapons Retexture SE — 2.0.2.0 → 2.0.5.0
+- Krosis - DMK Output — d2026.8.12.0 → d2026.9.6.0
+- Leather Armors Retexture SE — 2.0.0.0 → 2.0.1.0
+- Legacy of the Dragonborn - Follower Room Patches — 4.0.15.0 → 4.0.16.0
+- Lux Orbis (patch hub) - LOTD Patch — 4.7.0.0 → 4.7.0.0 (Nexus file 695720 → 790795)
+- Marked Treasure SSE (NG) — 2.0.5.0 → 2.0.6.0
+- marth Follower Overhaul - Progression Addon — 1.0.1.0 → 1.1.2.0
+- MBO - Modern Bash Overhaul — 1.0.0.0 → 1.0.0.0 (Nexus file 743256 → 743255)
+- MCM Helper SDK — 1.6.2.0 → 1.3.0.0
+- Meshes Optimization Project — 1.5.3.0 → 1.5.5.0
+- Modex - A Mod Explorer Menu (AddItemMenu) — 2.2.1.0 → 3.0.0.0
+- Object Categorization Framework - Some KID Patches - I4 - OCF — 3.9.0.0 → 4.0.0.0
+- Ostim On Demand - Pumping Iron Addon — 1.0.0.0h → 1.0.0.0
+- powerofthree's Papyrus Extender — 6.4.3.0 → 6.5.2.0
+- Save & Load Accelerator for SKSE Cosaves (S.L.A.C.K.) — 1.3.2.0 → 1.4.2.0
+- Serana Dialogue Add-On x Ashe — 1.0.7.0 → 1.0.11.0
+- Show Player In Inventory — 1.4.0.0 → 1.6.1.0
+- Shrubbery Symphony - Enhanced Greenery — 4.0.0.0 → 4.1.1.0
+- Simple Follower Framework — 1.4.1.1 → 2.2.0.0B
+- Simple Simonrim Widgets — 1.2.4.0 → 1.2.6.0
+- SKSE Menu Framework — 3.10.0.0 → 3.14.1.0
+- Skyrim Script Extender (SKSE64) New — 2.2.6.0 → 2.2.8.0
+- SkyUI SDK — 6.11.0.0 → 1.0.0.0
+- Smooth Terrain — 0.5.0.0 → 0.6.0.0
+- State Behavior Framework — 1.6.0.0 → 2.0.0.0
+- STB Active Effects — 1.9.0.0 → 2.1.0.0
+- STB Widgets — 2.7.0.0 → 3.0.0.0
+- Steel Armors and Weapons Retexture SE — 2.1.1.0 → 2.1.2.0
+- Summermyst - Enchantments of Skyrim — 4.0.7.0 → 4.2.0.0
+- Tears of Kyne - Water Need Mod — 2.5.1.0 → 2.5.2.0
+- Tomato's Whiterun Remake PBR and Complex Material — 1.4.0.0 → 2.3.0.0
+- Trueshot - an Adamant Addon - Remove Daggers — 2.1.0.0 → 1.0.0.0
+- Variadic Collision Dynamics — 1.3.1.0 → 1.3.4.0
+- Variadic Collision Dynamics - Resources — 1.0.10.0 → 1.0.11.0
+- Wait Your Turn Redux - Enemy Circling Behavior — 1.0.3.0 → 1.1.0.0
+- WoD - COTN Dawnstar patch — 1.0.0.0 → 1.0.0.0 (Nexus file 686808 → 686801)
+
+[Back to top](#krosis-changelog)
+
+---
 
 ## 2.3.3
 
