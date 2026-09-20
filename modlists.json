@@ -3,10 +3,17 @@
     "title": "Krosis",
     "description": "High-quality Skyrim SE modlist for version 1.6.1170 with beautiful graphics, strong immersion, and tasteful NSFW content. Features Vokriinator Black, fully overhauled cities, OStim, more than 7000 items for the museum and much more to come. Ready to explore?",
     "author": "aquilman",
-    "maintainers": ["github/InWaveless"],
+    "maintainers": [
+      "github/InWaveless"
+    ],
     "game": "skyrimspecialedition",
     "official": false,
-    "tags": ["Combat Overhaul", "DLC Required", "High Fantasy", "Steam"],
+    "tags": [
+      "Combat Overhaul",
+      "DLC Required",
+      "High Fantasy",
+      "Steam"
+    ],
     "nsfw": true,
     "utility_list": false,
     "image_contains_title": false,
@@ -15,24 +22,24 @@
     "links": {
       "image": "https://raw.githubusercontent.com/InWaveless/Krosis/main/img/krosis%20logo.webp",
       "readme": "https://github.com/InWaveless/Krosis",
-      "download": "https://authored-files.wabbajack.org/Krosis%202.0.wabbajack_c4845749-dcfb-44e7-8fd8-593a701e80df",
+      "download": "https://authored-files.wabbajack.org/Krosis 2.0.wabbajack_0b43dc0a-bec9-4ef1-93f4-5895dae6f0d0",
       "machineURL": "Krosis",
       "discordURL": "https://discord.gg/2mxz66fz4B",
       "websiteURL": "https://krosis.tech/en",
       "nexusCollection": null
     },
     "download_metadata": {
-      "Hash": "S2c3G/PJfN8=",
-      "Size": 15744368960,
+      "Hash": "bWhDIqkh7/8=",
+      "Size": 4774896107,
       "NumberOfArchives": 3454,
       "SizeOfArchives": 252547043087,
-      "NumberOfInstalledFiles": 486966,
-      "SizeOfInstalledFiles": 435173482857,
-      "TotalSize": 687720525944
+      "NumberOfInstalledFiles": 486778,
+      "SizeOfInstalledFiles": 418748289937,
+      "TotalSize": 671295333024
     },
-    "version": "2.4.0",
+    "version": "2.4.1",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-08-26T09:02:07.6802947Z",
+    "dateUpdated": "2026-09-20T17:08:01.2349598Z",
     "repositoryName": ""
   }
 ]
